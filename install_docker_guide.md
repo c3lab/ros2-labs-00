@@ -92,3 +92,6 @@ test by running `ros2 topic list`. You should see an output like:<br>
 `/parameter_events`<br>
 `/rosout`<br>
 
+## Additional software required
+
+Install VS Code as it will be our main IDE: https://code.visualstudio.com/
