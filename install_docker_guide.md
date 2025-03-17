@@ -56,7 +56,7 @@ Run `wsl --update` and repeat from Step 1
 #### Docker installation
 There are different ways to install docker on windows with support to WSL2.<br>
 The suggested and tested way is to install docker desktop **after WSL2 installation and configuration**.<br>
-Follow the instructions here https://docs.docker.com/desktop/setup/install/windows-install/. Basically just download and execute the executable file and follow the instructions **reebot may be required**.
+Follow the instructions here https://docs.docker.com/desktop/setup/install/windows-install/. Basically just download and execute the executable file and follow the instructions **reboot may be required**.
 
 
 
